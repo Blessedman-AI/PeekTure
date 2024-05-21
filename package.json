@@ -1,7 +1,7 @@
 {
   "name": "peekture",
   "private": true,
-  "proxy": "https://cloud.appwrite.io/v1",
+  "proxy": "peek-ture.vercel.app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
