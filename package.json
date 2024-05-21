@@ -1,7 +1,6 @@
 {
   "name": "peekture",
   "private": true,
-  "proxy": "peek-ture.vercel.app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
