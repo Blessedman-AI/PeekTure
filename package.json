@@ -1,6 +1,7 @@
 {
   "name": "peekture",
   "private": true,
+  "proxy": "https://cloud.appwrite.io/v1",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
